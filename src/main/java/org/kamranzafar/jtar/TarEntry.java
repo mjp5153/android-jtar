@@ -238,7 +238,6 @@ public class TarEntry {
 	/**
 	 * Parses the tar header to the byte buffer
 	 * 
-	 * @param header
 	 * @param bh
 	 */
 	public void parseTarHeader(byte[] bh) {
